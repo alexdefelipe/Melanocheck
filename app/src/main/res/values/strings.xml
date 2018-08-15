@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Melanocheck</string>
+
+    <string name="activity_main_bienvenido">¡Bienvenido!</string>
+    <string name="activity_main_aviso_medico">Pulsando sobre el siguiente enlace acepto entender que esta app solo tiene
+        fines de ayuda al diagnóstico y en ningún momento debe sustituir a la visita de un profesional
+    </string>
+    <string name="activity_main_continuar">Lo entiendo, continuar.</string>
+    <string name="activity_main_logo">Logo</string>
+
+    <string name="textview">TextView</string>
+    <string name="drawer_open">Abrir drawer</string>
+    <string name="drawer_close">Cerrar drawer</string>
+
+    <string name="comprobar_mancha_hacer_foto">Hacer foto</string>
+    <string name="comprobar_mancha_repetir_foto">Repetir</string>
+    <string name="comprobar_mancha_enviar_foto">Enviar</string>
+
+    <string name="lat">Latitud:</string>
+    <string name="lon">Longitud:</string>
+    <string name="value">Índice de radiación ultravioleta:</string>
+    <string name="texto_seleccion_piel">Selecciona el color que más se aproxime a tu piel</string>
+    <string name="texto_selección_ubi">¡Determina el factor de protección solar que debes portar para estar protegido frente a la radiación ultravioleta!</string>
+    <string name="texto_introduccion_lugar">Introduce el lugar</string>
+    <string name="texto_mi_ubi">Mi ubicación</string>
+    <string name="texto_iuv">IUV:</string>
+    <string name="texto_obtener_iuv">¡Obtener IUV!</string>
+    <string name="powered_by_google">powered by google</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

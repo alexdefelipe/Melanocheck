@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#616161</color>
+    <color name="colorPrimaryDark">#373737</color>
+    <color name="colorAccent">#616161</color>
+    <color name="white">#FFF</color>
+    <color name="gris">#D1D1D1</color>
+    <color name="lineas_separadoras">#424242</color>
+    <color name="background">#e9e9e9</color>
+    <color name="piel_clara">#EDCFAB</color>
+    <color name="piel_oscura">#BD8D55</color>
+</resources>
